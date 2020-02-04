@@ -1,5 +1,5 @@
 libraries{
   docker{
-    registry: "nexus.boozallencsn.com/my-project"
+    registry: "docker-registry.default.svc:5000/my-project"
   }
 }
